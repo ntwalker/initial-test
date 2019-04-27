@@ -4,4 +4,5 @@ import pandas as pd
 from sklearn.naive_bayes import MultinomialNB
 
 if __name__ == "__main__":
-	break
+	print("This is an example python script")
+	time.sleep(2)
